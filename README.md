@@ -43,7 +43,7 @@ Final submission achieved an **F1 Score of 0.8615**, reflecting a well-balanced 
 
 Key Achievements | 核心成果：
 - Ranked Top 2% in national-level quantitative modeling competition  
-  國內量化建模競賽前 2% 佳績
+  國內量化建模競賽前 1.6%% 佳績
 - Final F1 Score: **0.8615**
 - Balanced ensemble approach using LGBM, XGBoost, and CatBoost
 - Efficient Optuna tuning contributed to +5~10% performance gain
@@ -51,9 +51,10 @@ Key Achievements | 核心成果：
 ---
 
 ##  Requirements 環境需求
-
-```bash
-pip install pandas numpy matplotlib scikit-learn lightgbm xgboost catboost optuna
+- Python 3.9+
+- 套件需求：
+  ```bash
+  pip install pandas numpy matplotlib scikit-learn lightgbm xgboost catboost optuna
 
 ---
 ## 作者 Author
