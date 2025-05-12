@@ -61,6 +61,7 @@ Key Achievements | 核心成果：
 
 莊宗瀚 (Tsung Han Chuang)  
 [GitHub](https://github.com/CTHQuant) ｜ [LinkedIn](https://linkedin.com/in/宗瀚-莊-1a8588358/)
+
 ---
 ## License 授權條款
 This project is for educational and demonstration purposes only.
