@@ -47,6 +47,7 @@ Key Achievements | 核心成果：
 - Final F1 Score: **0.8615**
 - Balanced ensemble approach using LGBM, XGBoost, and CatBoost
 - Efficient Optuna tuning contributed to +5~10% performance gain
+![AI GO 競賽成績證明](https://raw.githubusercontent.com/CTHQuant/projects/main/assets/aigo_ranking.png)
 
 ---
 
